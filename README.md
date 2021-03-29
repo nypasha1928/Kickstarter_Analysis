@@ -18,7 +18,7 @@
 
 ##### Figure 3 gives more detail on the outcomes and their related values for Play Kickstarter campaigns in the United States.
 
-##### The Descriptive Statistics tab, found in ![Kickstarter_Analysis](https://github.com/nypasha1928/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx), holds even more helpful information for Louise and her campaign preparation. The data tells us:
+##### The Descriptive Statistics tab, found in [Kickstarter_Analysis](https://github.com/nypasha1928/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx), holds even more helpful information for Louise and her campaign preparation. The data tells us:
    * Failed campaigns have much higher goals than successful campaigns
    * Louise is asking for more than twice the average successful goal, which is not a good stat for Louise's sake
 
